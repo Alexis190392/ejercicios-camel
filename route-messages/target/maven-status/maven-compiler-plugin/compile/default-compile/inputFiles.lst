@@ -1,0 +1,5 @@
+/home/student/AD221/route-messages/src/main/java/com/redhat/training/bookpublishing/route/BookPrintingPipelineRouteBuilder.java
+/home/student/AD221/route-messages/src/main/java/com/redhat/training/bookpublishing/strategy/RoutingSlipStrategy.java
+/home/student/AD221/route-messages/src/main/java/com/redhat/training/bookpublishing/Application.java
+/home/student/AD221/route-messages/src/main/java/com/redhat/training/bookpublishing/route/BookReviewPipelineRouteBuilder.java
+/home/student/AD221/route-messages/src/main/java/com/redhat/training/bookpublishing/strategy/DynamicRoutingStrategy.java
