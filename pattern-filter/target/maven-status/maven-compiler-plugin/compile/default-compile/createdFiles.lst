@@ -1,0 +1,9 @@
+com/redhat/training/transform/Application$OrderProducer.class
+com/redhat/training/transform/OrderLogRouteBuilder.class
+com/redhat/training/transform/Application.class
+com/redhat/training/model/Customer.class
+com/redhat/training/model/OrderItem.class
+com/redhat/training/model/Address.class
+com/redhat/training/transform/TransformRouteBuilder.class
+com/redhat/training/model/Order.class
+com/redhat/training/model/CatalogItem.class
