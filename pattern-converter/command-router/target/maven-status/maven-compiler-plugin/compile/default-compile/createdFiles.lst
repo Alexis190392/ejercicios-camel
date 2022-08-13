@@ -1,0 +1,5 @@
+com/redhat/training/route/CommandConfigurationRouteBuilder.class
+com/redhat/training/model/CommandConfiguration.class
+com/redhat/training/model/CommandConfigurationCSVRecord.class
+com/redhat/training/route/converter/CommandConfigurationConverter.class
+com/redhat/training/Application.class

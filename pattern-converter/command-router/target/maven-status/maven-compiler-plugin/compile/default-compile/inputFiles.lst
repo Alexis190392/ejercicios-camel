@@ -1,0 +1,5 @@
+/home/student/AD221/pattern-converter/command-router/src/main/java/com/redhat/training/route/CommandConfigurationRouteBuilder.java
+/home/student/AD221/pattern-converter/command-router/src/main/java/com/redhat/training/route/converter/CommandConfigurationConverter.java
+/home/student/AD221/pattern-converter/command-router/src/main/java/com/redhat/training/Application.java
+/home/student/AD221/pattern-converter/command-router/src/main/java/com/redhat/training/model/CommandConfiguration.java
+/home/student/AD221/pattern-converter/command-router/src/main/java/com/redhat/training/model/CommandConfigurationCSVRecord.java
